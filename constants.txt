@@ -1,0 +1,6 @@
+diameter = 10 cm
+Wheel width = 1 cm
+
+Body = 10 * 10 * 8 cms
+
+Wheel to Wheel = 11.6cm
